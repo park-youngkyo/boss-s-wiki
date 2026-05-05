@@ -1,1 +1,1 @@
-# boss-s-wiki
+# bosskr-s-wiki
