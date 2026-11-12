@@ -9,3 +9,4 @@ _YouTube 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰
 - [2026-05-29] 📥 새 지식 입수 — **Day 1: PyTorch로 바닥부터 구현하는 트랜스포머 (Transformer from Scratch)**: 트랜스포머(Transformer)는 2017년 Google의 "Attention is All You Need" 논문에서 제안된 이후, 현대 자연어 처리(NLP)와 LLM(Large Language Model)의 근간이 되는 아키텍처입니다. (출처: 00_Raw\2026-05-29\day1.md)
 - [2026-07-30] 현재까지의 콘텐츠 전략(영상 전개 구조, 후킹 분석기)을 기반으로 다음 영상 주제 3가지와 각 주제별 핵심 후크 및 스크립트 초안을 작성하여 즉시 제작 준비를 시작하라. → 산출물 sessions/2026-07-30T15-50/youtube.md
 - [2026-11-12] 3단계 티어별 최종 판매 카피라이팅 묶음 (Copywriting Bundle) 작성. → 산출물 sessions/2026-11-12T12-21/youtube.md
+- [2026-11-12] 최우선 작업에 기반하여 해당 작업의 실행 계획을 구체적인 실행 단계로 분해하고, 필요한 에이전트에게 실행을 할당할 준비 → 산출물 sessions/2026-11-12T13-47/youtube.md
